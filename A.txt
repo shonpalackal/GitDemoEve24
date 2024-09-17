@@ -1,5 +1,4 @@
-India
-Bangalore
-Delhi
-SriLanka
-Australia
+A
+B
+C
+D
